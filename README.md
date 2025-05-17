@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fahim</h1>
-<h3 align="center">A passionate programmer from BAU</h3>
+<h3 align="center">A passionate programmer from Bangladesh Agricultural University(BAU)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-amim24&label=Profile%20views&color=0e75b6&style=flat" alt="t-amim-24" /> </p>
 
-###- 🔭 I’m currently working on **[Project/Company Name or Skillset]**
-
-- 🌱 I’m currently study in **[Bachelor of Science in Bioinformatics Engineering]**
-
-###- 💬 Ask me about **[Python, etc.]**
-
+- 🌱 I’m currently pursuing a **Bachelor of Science in Bioinformatics Engineering** at [Bangladesh Agricultural University], expected to graduate in [2027].
 - 📫 How to reach me **t.a.fahim24@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/md-tamim-ahmed-fahim-438321252/]
-
-###- ⚡ Fun fact **[A fun/quirky/cool fact about you]**
 
 ---
 
@@ -21,6 +14,14 @@
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </a>
+  <a href="https://www.oracle.com/java/" target="_blank"> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+</a>
+
+<a href="https://isocpp.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+</a>
+
   <!-- Add more badges here -->
 </p>
 
