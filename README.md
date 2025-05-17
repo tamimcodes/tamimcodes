@@ -3,10 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-amim24&label=Profile%20views&color=0e75b6&style=flat" alt="t-amim-24" /> </p>
 
-- 🌱 I’m currently pursuing a **Bachelor of Science in Bioinformatics Engineering** at [Bangladesh Agricultural University], expected to graduate in [2027].
+- 🌱 I’m currently pursuing a **Bachelor of Science in Bioinformatics Engineering** at Bangladesh Agricultural University, expected to graduate in 2027.
 - 📫 How to reach me **t.a.fahim24@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/md-tamim-ahmed-fahim-438321252/]
 
 ---
 
@@ -21,6 +19,10 @@
 <a href="https://isocpp.org/" target="_blank"> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
 </a>
+<a href="https://www.php.net/" target="_blank"> 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
+</a>
+
 
   <!-- Add more badges here -->
 </p>
