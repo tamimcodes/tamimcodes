@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer and Bioinformatics Engineering student at <br> Bangladesh Agricultural University (BAU)</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamimcodes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tamimcodes&label=Profile%20views&color=brightgreen&style=flat&abbreviated=true" alt="Profile Views" />
 </p>
 
 ---
