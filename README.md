@@ -58,13 +58,23 @@ Check out my personal website and portfolio here:
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<!----<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tamimcodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamimcodes&theme=tokyonight" />
+</p> ------>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamimcodes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tamimcodes&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 ---
 
