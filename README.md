@@ -10,12 +10,14 @@
 ### 👨‍🎓 About Me
 
 I'm a **Bioinformatics Engineering** student at **Bangladesh Agricultural University (BAU)**, set to graduate in **2027**. My academic journey involves diving deep into the fascinating intersection of biology and computer science.
-
+<!----------------------
 I'm currently exploring:
 * **Bioinformatics**
+* **Drug Design**
 * **Data Science**
 * **Algorithms**
 * **Backend Development**
+------------------------------>
 
 Feel free to reach out to me at: **t.a.fahim24@gmail.com**
 
@@ -37,11 +39,11 @@ Here are some of the languages and tools I work with:
 ### 📁 Projects
 
 Here are a few projects from my repositories:
-
+<!---------------------------------------
 * 🔬 **[GeneSeqAnalyzer](https://github.com/tamimcodes/GeneSeqAnalyzer)**: A tool for analyzing and visualizing genetic sequences.
 * 🧪 **[Protein-Structure-Visualizer](https://github.com/tamimcodes/Protein-Structure-Visualizer)**: 3D rendering of protein structures using Python.
 * 📊 **[Student-Grade-Manager](https://github.com/tamimcodes/Student-Grade-Manager)**: A Java-based CRUD application for managing student records.
-
+-------------------------------------------->
 > Want to see more? Check out my [GitHub Repositories](https://github.com/tamimcodes?tab=repositories)!
 
 ---
@@ -51,6 +53,7 @@ Here are a few projects from my repositories:
 My key interests include:
 
 * **Bioinformatics & Computational Biology**
+* **Drug Design**
 * **Data Science & Machine Learning**
 * **Algorithms and Problem Solving**
 * **Backend Development**
