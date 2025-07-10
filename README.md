@@ -51,7 +51,8 @@ Here are a few highlights from my repositories:
 
 ### 🌐 Portfolio
 
-Check out my personal website and portfolio here: **[tamimcodes.github.io](https://tamimcodes.github.io)** 
+Check out my personal website and portfolio here: 
+<a href="https://tamimcodes.github.io" target="_blank" rel="noopener noreferrer"><strong>tamimcodes.github.io</strong></a>
 
 ---
 
