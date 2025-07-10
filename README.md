@@ -67,7 +67,7 @@ Explore my personal website and portfolio here:
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamimcodes&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamimcodes&show_icons=true&theme=github_dark&text_color=7FFF00" alt="GitHub Stats" />
 </p>
 
 <p align="center">
