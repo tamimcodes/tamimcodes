@@ -42,7 +42,6 @@ Here are some of the languages and tools I work with:
   </a>
 </p>
 
-
 ---
 
 ### 📁 Projects
