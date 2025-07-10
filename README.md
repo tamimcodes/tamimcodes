@@ -19,7 +19,7 @@ I'm currently exploring:
 * **Backend Development**
 ------------------------------>
 
-Feel free to reach out to me at: **t.a.fahim24@gmail.com**
+<p>Feel free to reach out to me at: <a href="mailto:t.a.fahim24@gmail.com"><strong>t.a.fahim24@gmail.com</strong></a></p>
 
 ---
 
