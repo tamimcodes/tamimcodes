@@ -62,7 +62,7 @@ Check out my personal website and portfolio here: **[tamimcodes.github.io](https
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamimcodes&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamimcodes&theme=tokyonight" />
 </p>
 
 ---
