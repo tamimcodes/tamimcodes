@@ -100,7 +100,7 @@ Let's connect! You can find me on:
   <a href="mailto:t.a.fahim24@gmail.com" target="_blank" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 40px;"/>
   </a>
-  <a href="https://orcid.org/my-orcid?orcid=0009-0009-5159-0278" target="_blank" >
+  <a href="https://orcid.org/0009-0009-5159-0278" target="_blank" >
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" style="height: 40px;"/>
   </a>
 </p>
