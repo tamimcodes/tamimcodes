@@ -52,6 +52,14 @@ Here are a few projects from my repositories:
 
 ---
 
+### 🏆 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimcodes&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
 ### 🧠 Interests
 
 My key interests include:
