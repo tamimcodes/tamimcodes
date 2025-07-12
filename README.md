@@ -87,16 +87,17 @@ Explore my personal website and portfolio here:
 Let's connect! You can find me on:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-tamim-ahmed-fahim/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/md-tamim-ahmed-fahim/" target="_blank" style="text-decoration: none; border: none; outline: none; margin: 0 8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px;"/>
   </a>
-  <a href="https://x.com/t_amim24" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://x.com/t_amim24" target="_blank" style="text-decoration: none; border: none; outline: none; margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="height: 30px;"/>
   </a>
-  <a href="mailto:t.a.fahim24@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:t.a.fahim24@gmail.com" target="_blank" style="text-decoration: none; border: none; outline: none; margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 30px;"/>
   </a>
-  <a href="https://orcid.org/my-orcid?orcid=0009-0009-5159-0278" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  <a href="https://orcid.org/my-orcid?orcid=0009-0009-5159-0278" target="_blank" style="text-decoration: none; border: none; outline: none; margin: 0 8px;">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" style="height: 30px;"/>
   </a>
 </p>
+
