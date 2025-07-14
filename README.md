@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahim</h1>
-<h3 align="center">A passionate programmer and Bioinformatics Engineering student at <br> Bangladesh Agricultural University (BAU)</h3>
+<h3 align="center">A passionate programmer and Bioinformatics Engineering student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tamimcodes&label=Profile%20views&color=brightgreen&style=flat&abbreviated=true" alt="Profile Views" />
@@ -9,7 +9,8 @@
 
 ### 👨‍🎓 About Me
 
-I'm a **Bioinformatics Engineering** student at **Bangladesh Agricultural University (BAU)**, set to graduate in **2027**. My academic journey involves diving deep into the fascinating intersection of biology and computer science.
+I am a Bioinformatics Engineering student at Bangladesh Agricultural University (BAU), expected to graduate in 2027. My studies focus on bridging biology and computer science, equipping me with the skills to analyze and interpret biological data through computational techniques. Passionate about leveraging this interdisciplinary expertise to contribute to research and technological advancements in bioinformatics.
+
 <!----------------------
 I'm currently exploring:
 * **Bioinformatics**
