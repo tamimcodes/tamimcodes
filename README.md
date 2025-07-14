@@ -92,7 +92,7 @@ Let's connect! You can find me on:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-tamim-ahmed-fahim/" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 40px;"/>
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png.original.png" alt="LinkedIn" style="height: 40px;"/>
   </a>
   <a href="mailto:t.a.fahim24@gmail.com" target="_blank" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 40px;"/>
