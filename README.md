@@ -21,6 +21,7 @@ I'm currently exploring:
 <ul>
   <li>🏆 Codeforces: <a href="https://codeforces.com/profile/t_amim" target="_blank">t_amim</a></li>
   <li>🌐 LinkedIn: <a href="https://www.linkedin.com/in/md-tamim-ahmed-fahim/" target="_blank">MD. TAMIM AHMED FAHIM</a></li>
+  <li>🌸 Orchid ID: <a href="https://orcid.org/0009-0009-5159-0278" target="_blank">0009-0009-5159-0278</a></li>
   <li>📧 Email: <a href="mailto:t.a.fahim24@gmail.com">t.a.fahim24@gmail.com</a></li>
 </ul>
 
@@ -102,8 +103,5 @@ Let's connect! You can find me on:
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Gmail" style="height: 40px;"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://orcid.org/0009-0009-5159-0278" target="_blank" >
-    <img src="https://orcid.org/assets/vectors/orcid.logo.svg" alt="ORCID" style="height: 40px;"/>
-  </a>
 </p>
 
