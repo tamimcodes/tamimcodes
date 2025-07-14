@@ -101,7 +101,7 @@ Let's connect! You can find me on:
     <img src="https://codeforces.org/s/15889/images/codeforces-sponsored-by-ton.png" alt="Codeforces" style="height: 40px;"/>
   </a>
   <a href="https://orcid.org/0009-0009-5159-0278" target="_blank" >
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" style="height: 40px;"/>
+    <img src="https://orcid.org/assets/vectors/orcid.logo.svg" alt="ORCID" style="height: 40px;"/>
   </a>
 </p>
 
