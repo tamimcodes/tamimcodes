@@ -98,7 +98,7 @@ Let's connect! You can find me on:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 40px;"/>
   </a>
   <a href="https://codeforces.com/profile/t_amim" target="_blank" >
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" style="height: 40px;"/>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logoColor=white" alt="Codeforces" style="height: 40px;"/>
   </a>
   <a href="https://orcid.org/0009-0009-5159-0278" target="_blank" >
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" style="height: 40px;"/>
