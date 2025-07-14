@@ -94,12 +94,15 @@ Let's connect! You can find me on:
   <a href="https://www.linkedin.com/in/md-tamim-ahmed-fahim/" target="_blank" >
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png.original.png" alt="LinkedIn" style="height: 40px;"/>
   </a>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <a href="mailto:t.a.fahim24@gmail.com" target="_blank" >
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Gmail" style="height: 40px;"/>
   </a>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <a href="https://codeforces.com/profile/t_amim" target="_blank" >
     <img src="https://codeforces.org/s/15889/images/codeforces-sponsored-by-ton.png" alt="Codeforces" style="height: 40px;"/>
   </a>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <a href="https://orcid.org/0009-0009-5159-0278" target="_blank" >
     <img src="https://orcid.org/assets/vectors/orcid.logo.svg" alt="ORCID" style="height: 40px;"/>
   </a>
