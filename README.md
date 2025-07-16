@@ -33,14 +33,15 @@ I'm currently exploring:
 Here are some of the languages and tools I work with:
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" style="margin: 0 40.5px;" />
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="50" alt="Python" style="margin: 0 40.5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" style="margin: 0 40.5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" style="margin: 0 40.5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" style="margin: 0 40.5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" style="margin: 0 40.5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" style="margin: 0 40.5px;" />
+  <img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" height="50" alt="Git" style="margin: 0 40.5px;" />
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="50" alt="MySQL" style="margin: 0 40.5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" style="margin: 0 40.5px;" />
+  <img src="https://camo.githubusercontent.com/1d19b0321539fd04f6ab0b0a5c1aa62c511561fb0f9382a28a143b3128c2369f/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67" height="50" alt="BASH" style="margin: 0 40.5px;" />
 </p>
 
 ---
