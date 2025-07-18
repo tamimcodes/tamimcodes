@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍🎓 About Me
-I am a Bioinformatics Engineering student at Bangladesh Agricultural University (BAU), expected to graduate in 2027. My studies emphasize the application of computer science principles and techniques to solve complex biological problems, with a strong focus on programming,problem solving, data structures and algorithms, machine learning. I am passionate about leveraging this interdisciplinary expertise to drive innovation and technological advancements in bioinformatics and computational biology.
+I am a Bioinformatics Engineering student at Bangladesh Agricultural University (BAU), expected to graduate in 2027. My studies emphasize the application of computer science principles and techniques to solve complex biological problems, with a strong focus on programming, problem solving, data structures and algorithms, machine learning. I am passionate about leveraging this interdisciplinary expertise to drive innovation and technological advancements in bioinformatics and computational biology.
 
 <!----------------------
 I'm currently exploring:
@@ -19,9 +19,9 @@ I'm currently exploring:
 * **Backend Development**
 ------------------------------>
 <ul>
-  <li><img src="https://icons8.com/icon/YSy0lU4Y0X4z/codeforces"/> Codeforces: <a href="https://codeforces.com/profile/t_amim" target="_blank">t_amim</a></li>
-  <li><img src="https://icons8.com/icon/9L16NypUzu38/leetcode"/> LeetCode: <a href="https://leetcode.com/u/t_amim/" target="_blank">t_amim</a></li>
-  <li>🌐 LinkedIn: <a href="https://www.linkedin.com/in/md-tamim-ahmed-fahim/" target="_blank">MD. TAMIM AHMED FAHIM</a></li>
+  <li><img src="https://img.icons8.com/?size=100&id=YSy0lU4Y0X4z&format=png&color=000000"/> Codeforces: <a href="https://codeforces.com/profile/t_amim" target="_blank">t_amim</a></li>
+  <li><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000"/> LeetCode: <a href="https://leetcode.com/u/t_amim/" target="_blank">t_amim</a></li>
+  <li><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/> LinkedIn: <a href="https://www.linkedin.com/in/md-tamim-ahmed-fahim/" target="_blank">MD. TAMIM AHMED FAHIM</a></li>
 </ul>
 
 ---
