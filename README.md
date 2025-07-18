@@ -19,9 +19,9 @@ I'm currently exploring:
 * **Backend Development**
 ------------------------------>
 <ul>
-  <li><img src="https://img.icons8.com/?size=100&id=YSy0lU4Y0X4z&format=png&color=000000"/> Codeforces: <a href="https://codeforces.com/profile/t_amim" target="_blank">t_amim</a></li>
-  <li><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000"/> LeetCode: <a href="https://leetcode.com/u/t_amim/" target="_blank">t_amim</a></li>
-  <li><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/> LinkedIn: <a href="https://www.linkedin.com/in/md-tamim-ahmed-fahim/" target="_blank">MD. TAMIM AHMED FAHIM</a></li>
+  <li><img src="https://img.icons8.com/?size=100&id=YSy0lU4Y0X4z&format=png&color=000000" style="height: 15px;/> Codeforces: <a href="https://codeforces.com/profile/t_amim" target="_blank">t_amim</a></li>
+  <li><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" style="height: 15px;/> LeetCode: <a href="https://leetcode.com/u/t_amim/" target="_blank">t_amim</a></li>
+  <li><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" style="height: 15px;/> LinkedIn: <a href="https://www.linkedin.com/in/md-tamim-ahmed-fahim/" target="_blank">MD. TAMIM AHMED FAHIM</a></li>
 </ul>
 
 ---
