@@ -76,11 +76,11 @@ Here are a few projects from my repositories:
 
 My key interests include:
 
+* **Algorithms and Problem Solving**
+* **Backend Development**
 * **Bioinformatics & Computational Biology**
 * **Drug Design**
 * **Data Science & Machine Learning**
-* **Algorithms and Problem Solving**
-* **Backend Development**
 
 ---
 
