@@ -63,8 +63,9 @@ Here are some of the languages and tools I work with:
 ### 📁 Projects
 
 Here are a few projects from my repositories:
+* 🏥🐾 **[BAU-VTHMS](https://github.com/tamimcodes/BAU-VTHMS)**: A desktop application designed to modernize and enhance the management of patient records and treatment history at the Bangladesh Agricultural University Veterinary Teaching Hospital.
 <!---------------------------------------
-* 🔬 **[GeneSeqAnalyzer](https://github.com/tamimcodes/GeneSeqAnalyzer)**: A tool for analyzing and visualizing genetic sequences.
+
 * 🧪 **[Protein-Structure-Visualizer](https://github.com/tamimcodes/Protein-Structure-Visualizer)**: 3D rendering of protein structures using Python.
 * 📊 **[Student-Grade-Manager](https://github.com/tamimcodes/Student-Grade-Manager)**: A Java-based CRUD application for managing student records.
 -------------------------------------------->
