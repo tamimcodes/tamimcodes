@@ -33,6 +33,11 @@ I'm currently exploring:
   <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" style="height: 20px;" />
   LinkedIn: <a href="https://www.linkedin.com/in/md-tamim-ahmed-fahim/" target="_blank">MD. TAMIM AHMED FAHIM</a>
 </li>
+
+<li>
+  <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" style="height: 20px;" />
+  Gmail: <a href="mailto:t.a.fahim24@gmail.com" target="_blank">t.a.fahim24@gmail.com</a>
+</li>
 </ul>
 
 ---
